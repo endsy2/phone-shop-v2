@@ -66,5 +66,6 @@ export {
   phone2,
   phone3,
   phone4,
-  user
+  user,
+  addToCartWhite
 };
